@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning OOP language...
 - 😌 I like to explore something new and learn....
 
-- 
   
 
 <!---
