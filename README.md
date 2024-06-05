@@ -1,7 +1,5 @@
 #👋 Hi, I'm Madina Sarker..
 -👩🏻‍🎓👩🏻‍💻I am undergraduate CSE student
-![👩🏻‍🎓👩🏻‍💻I am undergraduate CSE student](https://www.linkedin.com/in/madina-sarker-0333982bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 -👀 I’m interested in IT related subject such as software engineer, Data analysis etc..
 -🌱 I’m currently learning OOP language...
 -😌 I like to explore something new and learn....
