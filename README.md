@@ -1,8 +1,12 @@
 #👋 Hi, I'm Madina Sarker..
--👩🏻‍🎓👩🏻‍💻I am undergraduate CSE student
--👀 I’m interested in IT related subject such as software engineer, Data analysis etc..
--🌱 I’m currently learning OOP language...
--😌 I like to explore something new and learn....
+
+- 👩🏻‍🎓👩🏻‍💻I am undergraduate CSE student..
+
+- 👀 I’m interested in IT related subject such as software engineer, Data analysis etc..
+
+- 🌱 I’m currently learning OOP language...
+
+- 😌 I like to explore something new and learn....
 
 
 Skills: C/ C++
